@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793241728994",
+    "firebase_url": "https://anikblog-f5b0f.firebaseio.com",
+    "project_id": "anikblog-f5b0f",
+    "storage_bucket": "anikblog-f5b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793241728994:android:e6be8a27613dbce6e1abbb",
+        "android_client_info": {
+          "package_name": "com.example.anikapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793241728994-h4vt4o7aqch1oqc4262re074bmllh9fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AEdGcLOSUg-joGy_RsTQuPb_QfEqjnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793241728994-h4vt4o7aqch1oqc4262re074bmllh9fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
